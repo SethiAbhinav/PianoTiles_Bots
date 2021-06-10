@@ -2,7 +2,7 @@
 
 #way to use: 1) Select Classic -> Pro
 #            2) Make sure your vs code is not covering any part of the game.
-#            3) Execute code whilst keeping mouse on top of the "click to start" area
+#            3) Execute code whilst keeping mouse on top of the "click to start" area.
 
 from pyautogui import *
 import pyautogui
