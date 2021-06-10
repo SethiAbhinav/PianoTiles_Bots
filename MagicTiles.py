@@ -8,7 +8,7 @@ import time
 import keyboard
 import win32api , win32con
 
-# Use pyautogui.displayMousePosition() to get required X, Y and rgb values
+# Use pyautogui.displayMousePosition() to get required X, Y and rgb values.
 # X:  708 Y:  747 RGB: ( 80,  83, 116)
 
 # X:  796 Y:  747 RGB: (  0,   0,   0)
