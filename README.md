@@ -1,4 +1,4 @@
-# PianoTiles_Bots [Image Recognition]
+# PianoTiles_Bots (Image Recognition)
 >Bots that work on different variants of the famous game "Piano Tiles". A bot that plays the game.
 
 Firstly, find the location of the target. In my case, it was a black pixel. Open command prompt or terminal, and go ahead and type:
